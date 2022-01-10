@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = miguellutz31@gmail.com
+	name = Miguel Lutz
